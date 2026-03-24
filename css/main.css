@@ -147,7 +147,7 @@ nav .gnb li{
 }
 
 }
-@media(max-width:390px){
+@media(max-width:450px){
   header{
   padding-top: 25px;
 }
