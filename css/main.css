@@ -332,13 +332,7 @@ nav .gnb li a{
 #main-visual .m_txt p span{
   font-size: 1.6rem;
 }
-#main-visual{
-  height: 500px;
-}
-#main-visual video{
-  width: 100vw;
-  height: 500px;
-}
+
 .scroll{
   transform: scale(0.7);
   left: 46%;
@@ -536,7 +530,7 @@ br.br{
 }
 }
 
-@media(max-width:390px){
+@media(max-width:450px){
   .a-right{
   padding: 0 30px;
 }
@@ -652,7 +646,7 @@ br.br{
 
 }
 
-@media(max-width:390px){
+@media(max-width:450px){
   .license h4 {
     font-size: 1.6rem;
   } 
@@ -755,7 +749,7 @@ br.br{
   );
 }
 }
-@media (max-width:390px){
+@media (max-width:450px){
 #skills .head span{
   font-size: 1.4rem;
   }
@@ -1172,7 +1166,7 @@ br.br{
 
 }
 
-@media(max-width:390px){
+@media(max-width:450px){
   #contact{
   padding: 0px 0;
 }
